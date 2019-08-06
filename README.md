@@ -19,7 +19,12 @@ ln -nsf ~/Developpement/winst-language
 
 ### Windows
 
-HAS TO BE DONE
+Clone this project into the `.atom` directory in your User folder like so:
+
+``` batch
+cd %HOMEPATH%\.atom\packages
+git clone https://github.com/nicolaslebrun/winst-language.git
+```
 
 ### iOS
 
